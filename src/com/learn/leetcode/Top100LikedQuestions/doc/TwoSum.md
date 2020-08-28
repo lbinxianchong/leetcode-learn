@@ -1,4 +1,4 @@
-#### 方法一：暴力法(冒泡)
+#### 1:暴力法(冒泡)
 
 ```java
     public int[] twoSum(int[] nums, int target) {
@@ -16,7 +16,7 @@
     }
 ```
 
-#### 方法二：两遍哈希表
+#### 2:两遍哈希表
 
 ```java
     public int[] twoSum2(int[] nums, int target) {
@@ -34,7 +34,7 @@
     }
 ```
 
-#### 方法三：一遍哈希表
+#### 3:一遍哈希表
 
 ```java
     public int[] twoSum3(int[] nums, int target) {
