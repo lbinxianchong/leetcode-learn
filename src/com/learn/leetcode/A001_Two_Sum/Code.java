@@ -1,4 +1,4 @@
-package com.learn.leetcode.Top100LikedQuestions.code;
+package com.learn.leetcode.A001_Two_Sum;
 
 import org.junit.Test;
 
