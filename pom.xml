@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lbin</groupId>
-    <artifactId>leetcode</artifactId>
+    <artifactId>leetcode-learn</artifactId>
     <version>learn</version>
     <dependencies>
 
